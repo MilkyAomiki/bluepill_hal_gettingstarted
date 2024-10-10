@@ -1,5 +1,6 @@
-../Core/Src/main.c:58:6:signal_sos	32	static
-../Core/Src/main.c:91:6:signal_on_interval	32	static
-../Core/Src/main.c:163:6:SystemClock_Config	72	static,ignoring_inline_asm
-../Core/Src/main.c:110:5:main	40	static
-../Core/Src/main.c:242:6:Error_Handler	0	static,ignoring_inline_asm
+../Core/Src/main.c:60:6:signal_sos	32	static
+../Core/Src/main.c:93:6:signal_on_interval	32	static
+../Core/Src/main.c:107:6:uart_send_message	0	static
+../Core/Src/main.c:176:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:118:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:288:6:Error_Handler	0	static,ignoring_inline_asm
