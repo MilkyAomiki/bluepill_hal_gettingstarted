@@ -1,6 +1,6 @@
-../Core/Src/main.c:60:6:signal_sos	4
-../Core/Src/main.c:93:6:signal_on_interval	2
-../Core/Src/main.c:107:6:uart_send_message	1
-../Core/Src/main.c:176:6:SystemClock_Config	3
-../Core/Src/main.c:118:5:main	2
-../Core/Src/main.c:288:6:Error_Handler	1
+../Core/Src/main.c:63:6:signal_sos	4
+../Core/Src/main.c:96:6:signal_on_interval	2
+../Core/Src/main.c:110:6:uart_send_message	1
+../Core/Src/main.c:195:6:SystemClock_Config	4
+../Core/Src/main.c:121:5:main	4
+../Core/Src/main.c:362:6:Error_Handler	1
